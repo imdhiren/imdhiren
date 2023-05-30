@@ -21,15 +21,6 @@ Welcome to my GitHub repository! I'm a **Senior Software Engineer** with a passi
  
 - **Problem Solver Extraordinaire:** I thrive on tackling complex challenges. As an exceptional problem solver, I have a knack for troubleshooting and finding innovative solutions. I'm not afraid to dive into the unknown and quickly adapt to new skills, technologies, or roles. With my energetic and determined mindset, no problem is too big to conquer!
  
-
- 
-## Let's Collaborate!
- 
-
- 
-If you're as passionate about creating unique, playful, and energetic software solutions as I am, I'd love to collaborate with you. Whether you're an individual, a startup, or an established company, I'm ready to take on exciting projects that push the boundaries of conventional development.
- 
-
  
 ## Get in Touch
  
