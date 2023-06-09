@@ -26,7 +26,7 @@ Welcome to my GitHub repository! I'm a **Senior Software Engineer** with a passi
  
 
  
-Feel free to reach out to me if you have any questions, ideas, or if you're interested in working together. You can connect with me via email at [dhirenspatel@hotmail.com](mailto:dhirenspatel@hotmail.com) or find me on LinkedIn [here](https://www.linkedin.com/in/imdhiren).
+Feel free to reach out to me if you have any questions, ideas, or if you're interested in working together. You can connect with me via email at [dhirenspatel[at]hotmail[dot]com](mailto:dhirenspatel@hotmail.com) or find me on LinkedIn [here](https://www.linkedin.com/in/imdhiren).
  
 
  
